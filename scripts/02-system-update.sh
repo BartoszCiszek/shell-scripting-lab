@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 echo "Starting system update..."
