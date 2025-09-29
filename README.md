@@ -18,18 +18,18 @@ shell-scripting-lab/
     ├── 05-disk-usage-alert.sh   # Alert if disk usage exceeds 80%
     ├── 06-user-check.sh         # Check if a system user exists
 
-🔜 Coming Up Next
-07-log-archiver.sh – compress old log files
-08-firewall-setup.sh – configure UFW
-09-auto-docker-install.sh – install Docker automatically
-10-health-check.sh – ping and port test
-'''
+🔜 Coming Up Next  
+07-log-archiver.sh – compress old log files  
+08-firewall-setup.sh – configure UFW  
+09-auto-docker-install.sh – install Docker automatically  
+10-health-check.sh – ping and port test  
+```
 
 ---
 
-## ✅ How to run the scripts
+### ✅ How to run the scripts
 
 ```bash
 chmod +x scripts/ScriptName.sh
 ./scripts/ScriptName.sh
-'''
+```
