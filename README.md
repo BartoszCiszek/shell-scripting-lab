@@ -23,11 +23,13 @@ shell-scripting-lab/
 08-firewall-setup.sh – configure UFW
 09-auto-docker-install.sh – install Docker automatically
 10-health-check.sh – ping and port test
+'''
 
 ---
 
-### ✅ How to run the scripts
+## ✅ How to run the scripts
 
 ```bash
 chmod +x scripts/ScriptName.sh
 ./scripts/ScriptName.sh
+'''
